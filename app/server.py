@@ -18,7 +18,7 @@ export_file_url = 'https://drive.google.com/uc?export=download&id=1CEjKD1WsFMI6B
 export_file_name = 'export.pkl'
 
 
-classes = ["wolf","husky","malamute]
+classes = ["wolf","husky","malamute"]
 path = Path(__file__).parent
 
 app = Starlette()
