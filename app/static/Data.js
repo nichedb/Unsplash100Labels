@@ -1,1 +1,1 @@
-let classes = ["wolf","husky","malamute"]
+let classes = ['malamute','wolf','husky']
