@@ -15,7 +15,7 @@ import requests
 Port = int(os.environ.get('PORT', 50000))
 
 export_file_url = 'https://drive.google.com/uc?export=download&id=1CEjKD1WsFMI6BZybRUpi558xMA5HjkSG'
-export_file_name = 'Ultimate-100Labels.pkl'
+export_file_name = 'export.pkl'
 
 
 classes = ["wolf","husky","malamute]
